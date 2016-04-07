@@ -1,0 +1,21 @@
+Instructions On How To Run The Project:
+
+1. Install the latest version of Django, Python and Pip in your system.
+
+2. Download the 'Restaurant.rar' file from the GRMS repository.
+
+3. Unzip the file and save it to the desktop or any other directory.
+
+4. Open the command prompt and navigate to the 'Restaurant' directory.
+
+5. Once in the directory run the command 'python manage.py runserver' to initialize the server.
+
+Note: Depending on the version of python installed the 'python' part of the above command might differ.
+
+6. The server should run and report about missing migrations, now open your browser.
+
+7. In the browser type "http://127.0.0.1:8000/homepage' to access the site.
+
+8. Currently the working module is the 'register' module and leads to a form which must be filled and browser automatically validates
+
+9. Upon submitting a validated form, the site will lead the user back to the homepage view.
