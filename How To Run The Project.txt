@@ -19,3 +19,5 @@ Note: Depending on the version of python installed the 'python' part of the abov
 8. Currently the working module is the 'register' module and leads to a form which must be filled and browser automatically validates
 
 9. Upon submitting a validated form, the site will lead the user back to the homepage view.
+
+Note: The python package 3.5.1 is too big to be uploaded in the repository, but is available at: https://www.python.org/downloads/release/python-351/ Pip comes already installed with this version of python and hence its installation file is not included. Django is installed in the command prompt using the command 'pip install django' and does not have an installation file.
